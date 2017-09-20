@@ -1,6 +1,5 @@
 (\s|<|\r\n)(o|O)\S+@\S+\.\S+
 34
-
  -  outlook.team@enron.com
   -  outlook.team@enron.com
   -  Outlook.2000@enron.com
